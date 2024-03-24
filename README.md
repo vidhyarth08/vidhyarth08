@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vidhyarth shahi
-- 👀 I’m interested in web development , machine learning , ai , game development and robotics.
+- 👀 I’m interested in web development , machine learning , ai , game development.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
