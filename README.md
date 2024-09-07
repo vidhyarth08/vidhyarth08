@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vidhyarth shahi
 - 👀 I’m interested in web development , machine learning , ai , game development , cybersecurity, hacking.
-- 🌱 I’m currently learning web development.
+- 🌱 I'm currently learning ethical hacking.
 - ⚡ Fun fact: newbie to programming
 
 <!---
